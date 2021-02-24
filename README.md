@@ -1,23 +1,9 @@
 # Awesome Go
 
-[![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
-
-## Sponsorships
-> [![Digital Ocean](https://avelino.run/sponsors/do_logo_horizontal_blue-210.png)](https://m.do.co/c/bd3b723c0a36?utm_medium=opensource&utm_source=awesome-go)
-
-**We have no monthly cost**_, but we have employees **working hard** to maintain the Awesome Go, with money raised we can repay the effort of each person involved! All billing and distribution will be open to the entire community._
-
-A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
-
-### Contributing
-
-Please take a quick gander at the [contribution guidelines](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
-
-#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
-
 ### Contents
 
 - [Awesome Go](#awesome-go)
+    - [Nghi](#nghi)
     - [Audio and Music](#audio-and-music)
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Bot Building](#bot-building)
@@ -111,6 +97,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Twitter](#twitter)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
+
+## Nghi Modern list
+
+*All useful modern list*
+
+* [Temporal](https://docs.temporal.io/docs/overview/) - Native Go FLAC encoder/decoder with support for FLAC streams.
+* [Why using Temporal over Cadence] (https://stackoverflow.com/questions/61157400/temporal-workflow-vs-cadence-workflow)
+
 
 ## Audio and Music
 
